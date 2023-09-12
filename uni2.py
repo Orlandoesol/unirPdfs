@@ -8,10 +8,10 @@ import tkinter as tk
 def unir_pdfs():
 
     # Directorios de entrada y salida
-    carpeta_entrada1 = "C:/Users/Orlando/Desktop/c1"
-    carpeta_entrada2 = "C:/Users/Orlando/Desktop/c2"
-    carpeta_salida = "C:/Users/Orlando/Desktop/c3"
-    archivo_excel = "C:/Users/Orlando/Desktop/lista.xlsx"
+    carpeta_entrada1 = "C:/Users/user/Desktop/c1"
+    carpeta_entrada2 = "C:/Users/user/Desktop/c2"
+    carpeta_salida = "C:/Users/user/Desktop/c3"
+    archivo_excel = "C:/Users/user/Desktop/excel.xlsx"
 
     # Leer los nombres de salida desde el archivo Excel
     nombres_de_salida = []
